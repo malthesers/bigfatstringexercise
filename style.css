@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 1rem;
+  background-color: #18191a;
+  text-align: center;
+}
+
+section > * {
+  margin: 0.5rem 0;
+}
+
+section {
+  margin: 0 auto;
+  min-width: 250px;
+  max-width: 600px;
+}
+
+h1 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.5rem;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+select,
+form,
+input,
+button {
+  width: 100%;
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.7rem;
+  font-weight: 300;
+}
+
+select,
+input,
+button {
+  padding: 0.5rem;
+}
+
+#output {
+  background-color: rgba(211, 211, 211, 0.849);
+}
+
+@media (min-width: 350px) {
+  h1 {
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+  }
+
+  select,
+  form,
+  input,
+  button {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 600px) {
+  h1 {
+    font-size: 2rem;
+    letter-spacing: 1.5rem;
+  }
+
+  select,
+  form,
+  input,
+  button {
+    font-size: 1.5rem;
+  }
+}
