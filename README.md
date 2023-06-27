@@ -2,7 +2,7 @@
 
 Made as part of KEA's multimedia design, during third semester front-end development course.
 
-Play around with the world-renowned and infamous stringulator at https://malthesers.github.io/stringulator/.
+Play around with the world-renowned and infamous stringulator [right here](https://malthesers.github.io/stringulator/).
 
 ## Current mechanisms
 
