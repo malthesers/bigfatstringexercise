@@ -1,10 +1,10 @@
-# Stringulator
+#🧵 Stringulator
 
 Made as part of KEA's multimedia design, during third semester front-end development course.
 
 Play around with the world-renowned and infamous stringulator [right here](https://malthesers.github.io/stringulator/).
 
-## Current mechanisms
+## ⚙️ Current mechanisms
 
 ### Capitalator...
 ...makes everything lowercase but capitalises the first letter.
